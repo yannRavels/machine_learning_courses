@@ -1,0 +1,9 @@
+ipykernel>=5.1.0
+tqdm>=4.30.0
+numpy>=1.16.0
+scipy>=1.2.0
+scikit-learn>=0.20.2
+matplotlib>=3.0.2
+pandas>=0.24.0
+pillow>=5.4.1
+graphviz>=0.10.1
